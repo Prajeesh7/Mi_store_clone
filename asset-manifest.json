@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mi_store_clone/static/css/main.dbbea75d.chunk.css",
+    "main.js": "/Mi_store_clone/static/js/main.9eb9eab7.chunk.js",
+    "main.js.map": "/Mi_store_clone/static/js/main.9eb9eab7.chunk.js.map",
+    "runtime-main.js": "/Mi_store_clone/static/js/runtime-main.e031a1c4.js",
+    "runtime-main.js.map": "/Mi_store_clone/static/js/runtime-main.e031a1c4.js.map",
+    "static/css/2.8ea71ad7.chunk.css": "/Mi_store_clone/static/css/2.8ea71ad7.chunk.css",
+    "static/js/2.e6ec7196.chunk.js": "/Mi_store_clone/static/js/2.e6ec7196.chunk.js",
+    "static/js/2.e6ec7196.chunk.js.map": "/Mi_store_clone/static/js/2.e6ec7196.chunk.js.map",
+    "index.html": "/Mi_store_clone/index.html",
+    "static/css/2.8ea71ad7.chunk.css.map": "/Mi_store_clone/static/css/2.8ea71ad7.chunk.css.map",
+    "static/css/main.dbbea75d.chunk.css.map": "/Mi_store_clone/static/css/main.dbbea75d.chunk.css.map",
+    "static/js/2.e6ec7196.chunk.js.LICENSE.txt": "/Mi_store_clone/static/js/2.e6ec7196.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e031a1c4.js",
+    "static/css/2.8ea71ad7.chunk.css",
+    "static/js/2.e6ec7196.chunk.js",
+    "static/css/main.dbbea75d.chunk.css",
+    "static/js/main.9eb9eab7.chunk.js"
+  ]
+}
